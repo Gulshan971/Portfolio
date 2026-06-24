@@ -115,7 +115,8 @@ function App(){
       <h1 id="heading">Contact-Information</h1>
       <div className="contact-me">
         <div className="email">
-          <p>Email : <a>gulshanrajdev47595@gmail.com</a> </p>
+          <p>Email :
+             <a href = "gulshanrajdev47595@gmail.com">MailMe</a> </p>
         </div>
         <div className="phone-no">
           <p>Mobile Number : 7985476928
@@ -125,8 +126,8 @@ function App(){
         <div className="github">
           <p>
             Github : 
-            <a>
-            http://github.com/gulshan971
+            <a href = "http://github.com/gulshan971">
+            ReposHere
           </a>
           </p>
          
